@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2D29HNab4Pt3Fj3h1m1nTFVk39yBkGLg4VOJGvRU7l366Y3WQmqyL3AVWkIx2dHuMFHJ5Uc9h2BVmbgiEfAPrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vit20\\source\\repos\\HW methods\\HwMethods\\HwMethods\\HwMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vit20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
