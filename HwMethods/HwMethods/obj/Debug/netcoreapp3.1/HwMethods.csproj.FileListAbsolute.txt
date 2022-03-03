@@ -1,0 +1,12 @@
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.exe
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.deps.json
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.runtimeconfig.json
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.runtimeconfig.dev.json
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.dll
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\bin\Debug\netcoreapp3.1\HwMethods.pdb
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.AssemblyInfoInputs.cache
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.AssemblyInfo.cs
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.csproj.CoreCompileInputs.cache
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.dll
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.pdb
+C:\Users\vit20\source\repos\HW methods\HwMethods\HwMethods\obj\Debug\netcoreapp3.1\HwMethods.genruntimeconfig.cache
