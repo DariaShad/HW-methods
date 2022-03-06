@@ -14,7 +14,12 @@ namespace Homework5
             double X2 = Convert.ToInt32(Console.ReadLine());
             double Y2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine($"Y={(Y2-Y1)/(X2-X1)}X+{-X1*(Y2-Y1)/(X2-X1)+Y1}");
+            GetEquation(X1, Y1, X2, Y2);
+        }
+
+        static void GetEquation(double X1, double Y1, double X2, double Y2)
+        {
+            Console.WriteLine($"Y={(Y2 - Y1) / (X2 - X1)}X+{-X1 * (Y2 - Y1) / (X2 - X1) + Y1}");
         }
     }
 }

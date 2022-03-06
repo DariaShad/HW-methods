@@ -13,8 +13,15 @@ namespace Homework4
             int A = Convert.ToInt32(Console.ReadLine());
             int B = Convert.ToInt32(Console.ReadLine());
             int C = Convert.ToInt32(Console.ReadLine());
-            int X;
-            Console.WriteLine(X = C/A-B);
+            
+
+            Console.WriteLine(SolveTheEquation(A, B, C)) ;
+        }
+
+        static int SolveTheEquation(int first, int second, int third)
+        {
+            int result = third / first - second;
+            return result;
         }
     }
 }
