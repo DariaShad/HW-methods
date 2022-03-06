@@ -15,8 +15,6 @@ namespace Homework5
             double Y2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine($"Y={(Y2-Y1)/(X2-X1)}X+{-X1*(Y2-Y1)/(X2-X1)+Y1}");
-            
-
         }
     }
 }
